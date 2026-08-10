@@ -1,0 +1,5 @@
+langgraph==0.2.60
+anthropic==0.40.0
+kubernetes==29.0.0
+requests==2.31.0
+scikit-learn==1.5.2
